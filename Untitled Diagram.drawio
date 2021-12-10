@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T07:40:06.327Z" agent="5.0 (X11)" etag="LQ44B0Q-c4BL_4CnRPVK" version="15.9.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-10T08:12:12.520Z" agent="5.0 (X11)" etag="kWOl6J4jHRBtbuabK3eE" version="15.9.4" type="github" pages="2">
   <diagram id="oQ-CZP-Ym7iO8yY-1h8-" name="overview">
     <mxGraphModel dx="643" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -129,6 +129,9 @@
           <mxGeometry x="-0.2447" y="-7" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-1nKL4h3rlytHZQQ5Txa-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.503;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;strokeWidth=2;fillColor=#FF9999;" edge="1" parent="6Mg6lQkFVJB2yA4eQzIb-1" source="6Mg6lQkFVJB2yA4eQzIb-18" target="6Mg6lQkFVJB2yA4eQzIb-461">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Mg6lQkFVJB2yA4eQzIb-18" value="API Gateway (NGINX)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#66FF66;" vertex="1" parent="6Mg6lQkFVJB2yA4eQzIb-1">
           <mxGeometry x="412" y="263" width="145.83" height="50" as="geometry" />

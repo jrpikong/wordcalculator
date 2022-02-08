@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T07:06:24.165Z" agent="5.0 (X11)" etag="lTrNAUuytOcbAyGMLM1I" version="16.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-08T07:06:43.000Z" agent="5.0 (X11)" etag="CpegfZumjx5OIQyaINoY" version="16.5.3" type="github" pages="3">
   <diagram id="oQ-CZP-Ym7iO8yY-1h8-" name="overview">
     <mxGraphModel dx="1590" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -440,11 +440,6 @@
       <root>
         <mxCell id="N_kL28tS_I-GriEoO0I_-0" />
         <mxCell id="N_kL28tS_I-GriEoO0I_-1" parent="N_kL28tS_I-GriEoO0I_-0" />
-        <mxCell id="N_kL28tS_I-GriEoO0I_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N_kL28tS_I-GriEoO0I_-1" source="N_kL28tS_I-GriEoO0I_-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="770" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="N_kL28tS_I-GriEoO0I_-2" value="Diagram Flow OMNI Jd.Id" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="N_kL28tS_I-GriEoO0I_-1">
           <mxGeometry x="80" y="70" width="480" height="480" as="geometry" />
         </mxCell>

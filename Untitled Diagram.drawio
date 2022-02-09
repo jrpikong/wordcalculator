@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T03:48:07.648Z" agent="5.0 (X11)" etag="49Vn0T-B_vFJk3tywO4k" version="16.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-09T04:38:45.529Z" agent="5.0 (X11)" etag="zQtj3KnMNs-D_wEFErgO" version="16.5.3" type="github" pages="3">
   <diagram id="oQ-CZP-Ym7iO8yY-1h8-" name="overview">
     <mxGraphModel dx="1590" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -436,7 +436,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s42VIODD6Nwpk8YIUpZM" name="Page-3">
-    <mxGraphModel dx="5300" dy="3857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1767" dy="2019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="N_kL28tS_I-GriEoO0I_-0" />
         <mxCell id="N_kL28tS_I-GriEoO0I_-1" parent="N_kL28tS_I-GriEoO0I_-0" />
@@ -752,6 +752,72 @@
         </mxCell>
         <mxCell id="hxXxnHFVZh4mztPIHQlC-142" value="DIAGRAM ALUR ORDER OMNI DI JD.ID" style="whiteSpace=wrap;html=1;strokeColor=#FF0000;fillColor=#ffffff;" vertex="1" parent="N_kL28tS_I-GriEoO0I_-1">
           <mxGeometry x="700" y="-990" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-144" value="LIST PRODUCT OMNI COMBO SAKTI" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#FF0000;fillColor=#ffffff;" vertex="1" parent="N_kL28tS_I-GriEoO0I_-1">
+          <mxGeometry x="1770" y="-720" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-145" value="Combo SAKTI Unlimited 32GB + Nelpon &amp; SMS&#xa;Nominal : 79.000" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="hxXxnHFVZh4mztPIHQlC-144">
+          <mxGeometry y="30" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-146" value="Combo SAKTI Unlimited 45GB + Nelpon &amp; SMS&#xa;Nominal : 105.000" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="hxXxnHFVZh4mztPIHQlC-144">
+          <mxGeometry y="60" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-147" value="Combo SAKTI Mingguan 10 GB + Nelpon &amp; SMS&#xa;Nominal : 36.000" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="hxXxnHFVZh4mztPIHQlC-144">
+          <mxGeometry y="90" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-148" value="Combo SAKTI MAX 4GB + Nelpon &amp; SMS&#xa;Nominal : 10.000" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="hxXxnHFVZh4mztPIHQlC-144">
+          <mxGeometry y="120" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-149" value="Combo SAKTI MAX 10GB + Nelpon &amp; SMS&#xa;Nominal : 25.000" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="hxXxnHFVZh4mztPIHQlC-144">
+          <mxGeometry y="150" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="N_kL28tS_I-GriEoO0I_-1" source="hxXxnHFVZh4mztPIHQlC-150" target="hxXxnHFVZh4mztPIHQlC-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-150" value="LIST PRODUCT OMNI COMBO SAKTI" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#FF0000;fillColor=#ffffff;" vertex="1" parent="N_kL28tS_I-GriEoO0I_-1">
+          <mxGeometry x="1770" y="-490" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-151" value="Paket Nelpon Sepuasnya 7 Days&#xa;Nominal : 4.000" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="hxXxnHFVZh4mztPIHQlC-150">
+          <mxGeometry y="30" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-152" value="Paket Nelpon Sepuasnya 30 Days&#xa;Nominal : 15.000" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="hxXxnHFVZh4mztPIHQlC-150">
+          <mxGeometry y="60" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-153" value="Paket Nelpon Sepuasnya 35 Days&#xa;Nominal : 10.000" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="hxXxnHFVZh4mztPIHQlC-150">
+          <mxGeometry y="90" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-156" value="LIST PRODUCT OMNI COMBO SAKTI" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#FF0000;fillColor=#ffffff;" vertex="1" parent="N_kL28tS_I-GriEoO0I_-1">
+          <mxGeometry x="2560" y="-769" width="280" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-157" value="SKU : OMNI4K&#xa;Selling Price : 5.500&#xa;Nominal : 4.000" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="hxXxnHFVZh4mztPIHQlC-156">
+          <mxGeometry y="30" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-162" value="SKU : OMNI5K&#xa;Selling Price : 6.500&#xa;Nominal : 5.000" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="hxXxnHFVZh4mztPIHQlC-156">
+          <mxGeometry y="90" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-163" value="SKU : OMNI10K&#xa;Selling Price : 11.500&#xa;Nominal : 10.000" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="hxXxnHFVZh4mztPIHQlC-156">
+          <mxGeometry y="150" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-164" value="SKU : OMNI15K&#xa;Selling Price : 16.500&#xa;Nominal : 15.000" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="hxXxnHFVZh4mztPIHQlC-156">
+          <mxGeometry y="210" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-165" value="SKU : OMNI20K&#xa;Selling Price : 21.500&#xa;Nominal : 20.000" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="hxXxnHFVZh4mztPIHQlC-156">
+          <mxGeometry y="270" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-166" value="SKU : OMNI25K&#xa;Selling Price : 26.500&#xa;Nominal : 25.000" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="hxXxnHFVZh4mztPIHQlC-156">
+          <mxGeometry y="330" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-167" value="SKU : OMNI79K&#xa;Selling Price : 80.500&#xa;Nominal : 79.000" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="hxXxnHFVZh4mztPIHQlC-156">
+          <mxGeometry y="390" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-168" value="SMTEL BACKEND ORCHESTRATION" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#FF0000;fillColor=#ffffff;" vertex="1" parent="N_kL28tS_I-GriEoO0I_-1">
+          <mxGeometry x="2190" y="-610" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="N_kL28tS_I-GriEoO0I_-1" source="hxXxnHFVZh4mztPIHQlC-146" target="hxXxnHFVZh4mztPIHQlC-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hxXxnHFVZh4mztPIHQlC-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N_kL28tS_I-GriEoO0I_-1" source="hxXxnHFVZh4mztPIHQlC-164" target="hxXxnHFVZh4mztPIHQlC-168">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

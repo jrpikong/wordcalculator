@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-11T08:31:18.718Z" agent="5.0 (X11)" etag="j0zWe2DrX6_BayMmVo1x" version="16.5.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-02-11T08:37:32.958Z" agent="5.0 (X11)" etag="_SGw9JeKdfjonBxDTRuF" version="16.5.4" type="github" pages="5">
   <diagram id="oQ-CZP-Ym7iO8yY-1h8-" name="overview">
     <mxGraphModel dx="1590" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -831,7 +831,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-YlbAyAKinmGtyOg_fal" name="Page-5">
-    <mxGraphModel dx="1590" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1590" dy="1893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8O4zsOuluQo3ClbCK581-0" />
         <mxCell id="8O4zsOuluQo3ClbCK581-1" parent="8O4zsOuluQo3ClbCK581-0" />
@@ -890,10 +890,16 @@
           <mxGeometry x="900" y="264" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8O4zsOuluQo3ClbCK581-21" value="- Input Stok&lt;br&gt;- Input Penjualan" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=15;" vertex="1" parent="8O4zsOuluQo3ClbCK581-1">
-          <mxGeometry x="340" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8O4zsOuluQo3ClbCK581-22" value="FA PUSAT&lt;br&gt;- Stok ambil dari Pusat&lt;br&gt;- Harga Berbeda" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8O4zsOuluQo3ClbCK581-1">
           <mxGeometry x="600" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8O4zsOuluQo3ClbCK581-24" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="8O4zsOuluQo3ClbCK581-1">
+          <mxGeometry x="110" y="490" width="260" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="8O4zsOuluQo3ClbCK581-25" value="1. report stok gudang&#xa;2. report stok by sales&#xa;3. filter by date start - end&#xa;4. report penjualan filter by sales&#xa;5. form penjualan by admin panel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="8O4zsOuluQo3ClbCK581-24">
+          <mxGeometry y="30" width="260" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-03T02:56:13.118Z" agent="5.0 (X11)" etag="atuu_F5iFi3PpQJDDlvF" version="20.2.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-09-03T03:09:52.303Z" agent="5.0 (X11)" etag="bsEH-OU1gkbCYvdcEAWW" version="20.2.7" type="github" pages="6">
   <diagram id="oQ-CZP-Ym7iO8yY-1h8-" name="overview">
     <mxGraphModel dx="1590" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -910,7 +910,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="b1mFV6iXh2sD26E_Yumy-1" value="UPLINE &amp; DOWNLINE" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="110" y="130" width="635" height="360" as="geometry" />
+          <mxGeometry x="100" y="10" width="635" height="360" as="geometry" />
         </mxCell>
         <mxCell id="b1mFV6iXh2sD26E_Yumy-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b1mFV6iXh2sD26E_Yumy-1" source="b1mFV6iXh2sD26E_Yumy-3" target="b1mFV6iXh2sD26E_Yumy-4">
           <mxGeometry relative="1" as="geometry" />
@@ -974,6 +974,56 @@
         </mxCell>
         <mxCell id="b1mFV6iXh2sD26E_Yumy-27" value="&lt;div&gt;&lt;b&gt;kariawan / anggota berperan sebagai Downline&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="b1mFV6iXh2sD26E_Yumy-1">
           <mxGeometry x="75" y="300" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b1mFV6iXh2sD26E_Yumy-30" value="UPLINE &amp; DOWNLINE" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="100" y="420" width="635" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="b1mFV6iXh2sD26E_Yumy-52" value="&lt;b&gt;User Utama yang memiliki saldo &lt;/b&gt;" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;verticalAlign=top;align=center;pointerEvents=1;shape=mxgraph.cisco_safe.design.actor_2;" vertex="1" parent="b1mFV6iXh2sD26E_Yumy-30">
+          <mxGeometry x="110" y="62" width="19" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b1mFV6iXh2sD26E_Yumy-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="b1mFV6iXh2sD26E_Yumy-30" source="b1mFV6iXh2sD26E_Yumy-63" target="b1mFV6iXh2sD26E_Yumy-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b1mFV6iXh2sD26E_Yumy-53" value="Anak 1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;verticalAlign=top;align=center;pointerEvents=1;shape=mxgraph.cisco_safe.design.actor_2;" vertex="1" parent="b1mFV6iXh2sD26E_Yumy-30">
+          <mxGeometry x="92" y="182" width="19" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b1mFV6iXh2sD26E_Yumy-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.053;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="b1mFV6iXh2sD26E_Yumy-30" source="b1mFV6iXh2sD26E_Yumy-54" target="b1mFV6iXh2sD26E_Yumy-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b1mFV6iXh2sD26E_Yumy-54" value="Istri" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;verticalAlign=top;align=center;pointerEvents=1;shape=mxgraph.cisco_safe.design.actor_2;" vertex="1" parent="b1mFV6iXh2sD26E_Yumy-30">
+          <mxGeometry x="30" y="182" width="19" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b1mFV6iXh2sD26E_Yumy-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.158;entryY=0.68;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="b1mFV6iXh2sD26E_Yumy-30" source="b1mFV6iXh2sD26E_Yumy-55" target="b1mFV6iXh2sD26E_Yumy-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b1mFV6iXh2sD26E_Yumy-55" value="Anak 2" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;verticalAlign=top;align=center;pointerEvents=1;shape=mxgraph.cisco_safe.design.actor_2;" vertex="1" parent="b1mFV6iXh2sD26E_Yumy-30">
+          <mxGeometry x="145" y="183" width="19" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b1mFV6iXh2sD26E_Yumy-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.105;entryY=0.68;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="b1mFV6iXh2sD26E_Yumy-30" source="b1mFV6iXh2sD26E_Yumy-58" target="b1mFV6iXh2sD26E_Yumy-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b1mFV6iXh2sD26E_Yumy-58" value="&lt;div&gt;tanpa &lt;br&gt;&lt;/div&gt;&lt;div&gt;limit anggota&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;verticalAlign=top;align=center;pointerEvents=1;shape=mxgraph.cisco_safe.design.actor_2;" vertex="1" parent="b1mFV6iXh2sD26E_Yumy-30">
+          <mxGeometry x="262" y="183" width="19" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b1mFV6iXh2sD26E_Yumy-63" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;User utama memberi akses kepada anggota untuk sharring saldo&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="b1mFV6iXh2sD26E_Yumy-30">
+          <mxGeometry x="-0.5" y="140" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b1mFV6iXh2sD26E_Yumy-64" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="b1mFV6iXh2sD26E_Yumy-30" source="b1mFV6iXh2sD26E_Yumy-53" target="b1mFV6iXh2sD26E_Yumy-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="219.5" y="601" as="sourcePoint" />
+            <mxPoint x="219.5" y="532" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b1mFV6iXh2sD26E_Yumy-65" value="&lt;h1&gt;Ketentuan&lt;br&gt;&lt;/h1&gt;&lt;p&gt;1. user utama terdaftar pada aplikasi Myra dan sudah memiliki saldo&lt;/p&gt;&lt;p&gt;2. anggota mendownload Myra dan registter dengan menggunakan Kode Sharing yang dimiliki user utama&lt;/p&gt;&lt;p&gt;3, Anggita dapat melakukan transakti tanpa harus melakukan deposit, karena saldo sudah terkoneksi dengan saldo utama&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=11;" vertex="1" parent="b1mFV6iXh2sD26E_Yumy-30">
+          <mxGeometry x="307" y="40" width="310" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="b1mFV6iXh2sD26E_Yumy-66" value="Orang Tua" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;verticalAlign=top;align=center;pointerEvents=1;shape=mxgraph.cisco_safe.design.actor_2;" vertex="1" parent="b1mFV6iXh2sD26E_Yumy-30">
+          <mxGeometry x="199" y="183" width="19" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b1mFV6iXh2sD26E_Yumy-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="b1mFV6iXh2sD26E_Yumy-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

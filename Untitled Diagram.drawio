@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T13:58:28.689Z" agent="5.0 (X11)" etag="cSZui0rnWdPOU-tfXXG-" version="20.2.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-09-06T14:08:28.839Z" agent="5.0 (X11)" etag="Jbpkp9dYEYj36Ys_57uE" version="20.2.8" type="github" pages="9">
   <diagram id="oQ-CZP-Ym7iO8yY-1h8-" name="overview">
     <mxGraphModel dx="1590" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1137,6 +1137,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZCbQeaQnw1tTHIsLM9tN-24" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="90" y="80" width="370" height="560" as="geometry" />
+        </mxCell>
         <mxCell id="ZCbQeaQnw1tTHIsLM9tN-18" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="110" y="360" width="330" height="240" as="geometry" />
         </mxCell>
@@ -1161,7 +1164,7 @@
             <mxPoint x="354" y="149.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZCbQeaQnw1tTHIsLM9tN-6" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.systems_check" vertex="1" parent="1">
+        <mxCell id="ZCbQeaQnw1tTHIsLM9tN-6" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#009900;shape=mxgraph.gcp2.systems_check" vertex="1" parent="1">
           <mxGeometry x="364.59999999999997" y="250" width="59.4" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZCbQeaQnw1tTHIsLM9tN-7" value="&lt;div&gt;Melakukan &lt;br&gt;&lt;/div&gt;&lt;div&gt;Validasi &amp;amp; Approval&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1200,11 +1203,26 @@
         <mxCell id="ZCbQeaQnw1tTHIsLM9tN-19" value="&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;	&lt;br/&gt;	&lt;br/&gt;	&lt;br/&gt;	" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/coronavirus-disease-highlight/128/Working-online-laptop-freelancer-128.png;fillColor=#3B8DF1;" vertex="1" parent="1">
           <mxGeometry x="145" y="397" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZCbQeaQnw1tTHIsLM9tN-20" value="&lt;div align=&quot;left&quot;&gt;ccid vf untuk dijadikan barang Bundling dan akan menjadi stok baru di masing2 Gudang TAP.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZCbQeaQnw1tTHIsLM9tN-20" value="Area memilih ccid vf untuk dijadikan barang Bundling dan akan menjadi stok baru di masing2 Gudang TAP." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="126" y="447" width="129" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZCbQeaQnw1tTHIsLM9tN-21" value="&lt;div align=&quot;left&quot;&gt;Pada saat Gm ingin melakukan relokasi, pusat akan susah melakukan kontrol karena data belum tersinkronisasi dengan system&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="293" y="480" width="147" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCbQeaQnw1tTHIsLM9tN-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#9FAD9E;fillColor=#FFFF00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="314" y="429.5" as="sourcePoint" />
+            <mxPoint x="350" y="429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZCbQeaQnw1tTHIsLM9tN-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#9FAD9E;fillColor=#757575;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="346" as="sourcePoint" />
+            <mxPoint x="150" y="386" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZCbQeaQnw1tTHIsLM9tN-25" value="" style="dashed=0;html=1;shape=mxgraph.aws3.instance;fillColor=#F58536;gradientColor=none;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="60" width="40" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
